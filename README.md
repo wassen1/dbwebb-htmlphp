@@ -1,6 +1,6 @@
 # dbwebb-htmlphp
 From course in PHP at Blekinge Institute of Technology, BTH, 2019
-### [Link to the demo page](http://www.student.bth.se/~fraa18/dbwebb-kurser/htm>
+### [Link to the demo page](http://www.student.bth.se/~fraa18/dbwebb-kurser/htmlphp/me/kmom10/home.php)
 ![Demo Home](../assets/home.png?raw=true)
 ![Demo Articles](../assets/articles.png?raw=true)
 ![Demo Gallery](../assets/gallery.png?raw=true)
